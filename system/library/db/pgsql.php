@@ -1,6 +1,6 @@
 <?php
 namespace DB;
-final class Postgre {
+final class pgsql {
 	private $link;
 
 	public function __construct($hostname, $username, $password, $database, $port = '5432') {
