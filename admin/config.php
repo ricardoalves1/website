@@ -11,7 +11,7 @@ define('HTTPS_CATALOG', 'https://websiteauto.herokuapp.com/');
 define('DIR_APPLICATION', '/app/admin/');
 define('DIR_SYSTEM', '/app/system/');
 define('DIR_IMAGE', '/app/image/');
-define('DIR_STORAGE', '/app/storage/');
+define('DIR_STORAGE', '/storage/');
 define('DIR_CATALOG', '/app/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
